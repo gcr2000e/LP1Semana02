@@ -34,6 +34,9 @@ namespace ValoresEspeciais
             float f5 = float.NaN;
             double d5 = double.NaN;
 
+            uint ui1 = (uint)short.MaxValue;
+
+
             Console.WriteLine(b1);
             Console.WriteLine(b2);
             Console.WriteLine(sb1);
@@ -52,6 +55,7 @@ namespace ValoresEspeciais
             Console.WriteLine(f4);
             Console.WriteLine(d5);
             Console.WriteLine(f5);
+            Console.WriteLine((short)(ui1+1));
         }
     }
 }
