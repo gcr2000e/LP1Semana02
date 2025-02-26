@@ -25,6 +25,15 @@ namespace ValoresEspeciais
             ulong ul1 = ulong.MaxValue;
             ulong ul2 = ulong.MinValue;
 
+            double d3 = double.PositiveInfinity;
+            double d4 = double.NegativeInfinity;
+
+            float f3 = float.PositiveInfinity;
+            float f4 = float.NegativeZero;
+
+            float f5 = float.NaN;
+            double d5 = double.NaN;
+
             Console.WriteLine(b1);
             Console.WriteLine(b2);
             Console.WriteLine(sb1);
@@ -37,6 +46,12 @@ namespace ValoresEspeciais
             Console.WriteLine(db2);
             Console.WriteLine(ul1);
             Console.WriteLine(ul2);
+            Console.WriteLine(d3);
+            Console.WriteLine(d4);
+            Console.WriteLine(f3);
+            Console.WriteLine(f4);
+            Console.WriteLine(d5);
+            Console.WriteLine(f5);
         }
     }
 }
