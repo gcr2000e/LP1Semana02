@@ -36,6 +36,12 @@ namespace ValoresEspeciais
 
             uint ui1 = (uint)short.MaxValue;
 
+            float f6 = 2 * float.MaxValue;
+            float f7 = float.MaxValue + 1;
+
+            float f8, f9;
+            f8 = f9 = 10000.0f;
+
 
             Console.WriteLine(b1);
             Console.WriteLine(b2);
@@ -56,6 +62,9 @@ namespace ValoresEspeciais
             Console.WriteLine(d5);
             Console.WriteLine(f5);
             Console.WriteLine((short)(ui1+1));
+            Console.WriteLine(f6);
+            Console.WriteLine(f7);
+            Console.WriteLine(f8 == f9 + 0.0001f);
         }
     }
 }
