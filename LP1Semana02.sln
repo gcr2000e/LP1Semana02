@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BreakContinue", "BreakConti
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatGPTOne", "ChatGPTOne\ChatGPTOne.csproj", "{FD6EFA21-0100-41CB-81C1-7846F43D337E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PerfectCountdown", "PerfectCountdown\PerfectCountdown.csproj", "{FC96263A-7C2D-42E5-B956-91A9C4C8DE9C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -125,6 +127,18 @@ Global
 		{FD6EFA21-0100-41CB-81C1-7846F43D337E}.Release|x64.Build.0 = Release|Any CPU
 		{FD6EFA21-0100-41CB-81C1-7846F43D337E}.Release|x86.ActiveCfg = Release|Any CPU
 		{FD6EFA21-0100-41CB-81C1-7846F43D337E}.Release|x86.Build.0 = Release|Any CPU
+		{FC96263A-7C2D-42E5-B956-91A9C4C8DE9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC96263A-7C2D-42E5-B956-91A9C4C8DE9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC96263A-7C2D-42E5-B956-91A9C4C8DE9C}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{FC96263A-7C2D-42E5-B956-91A9C4C8DE9C}.Debug|x64.Build.0 = Debug|Any CPU
+		{FC96263A-7C2D-42E5-B956-91A9C4C8DE9C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{FC96263A-7C2D-42E5-B956-91A9C4C8DE9C}.Debug|x86.Build.0 = Debug|Any CPU
+		{FC96263A-7C2D-42E5-B956-91A9C4C8DE9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC96263A-7C2D-42E5-B956-91A9C4C8DE9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC96263A-7C2D-42E5-B956-91A9C4C8DE9C}.Release|x64.ActiveCfg = Release|Any CPU
+		{FC96263A-7C2D-42E5-B956-91A9C4C8DE9C}.Release|x64.Build.0 = Release|Any CPU
+		{FC96263A-7C2D-42E5-B956-91A9C4C8DE9C}.Release|x86.ActiveCfg = Release|Any CPU
+		{FC96263A-7C2D-42E5-B956-91A9C4C8DE9C}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
